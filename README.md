@@ -5,8 +5,9 @@
 ## 공식 문서
 
 - [Dart](https://dart.dev)
-- [ENG/Flutter](https://flutter.dev)
-- [KO/Flutter](https://flutter-ko.dev)
+- [Eng/Flutter](https://flutter.dev)
+- [Ko/Flutter](https://flutter-ko.dev)
+- [Official package repository](https://pub.dev)
 
 ## 서적
 
@@ -15,3 +16,13 @@
 ## 유투브
 
 - [코딩셰프](https://www.youtube.com/@codingchef/featured)
+
+## 환경설정
+
+```sh
+# 주의사항: dart를 미리 설치하지 말 것
+brew install flutter
+
+# 플러터의 환경설정 진단하기
+flutter doctor
+```
